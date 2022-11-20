@@ -11,3 +11,5 @@
 <li>Tecnologias utilizadas : Trello, Git, GitHub, Visual Studio Code;</li>
 
 <li>Nome e email dos desenvolvedores : Juliano Machado - julmachadoramos@gmail.com</li>
+
+*Treinamento Alura Git e GitHub colaboração.*
